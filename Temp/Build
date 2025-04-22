@@ -1,0 +1,9 @@
+# GroupA_2425/Temp/Build 
+
+git init
+git add .
+git commit -m "Initial commit - setup product website"
+git branch -M main
+git remote add origin https://github.com/yourusername/awesome-store.git
+git push -u origin main
+
